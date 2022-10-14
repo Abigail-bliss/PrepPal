@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrepPal</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="add_meal_to_calendar">Add Meal to Calendar</string>
+    <string name="date">Start Date:</string>
+</resources>
